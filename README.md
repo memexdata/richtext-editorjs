@@ -2,6 +2,8 @@
 
 Memex uses Editor.js as <strong>Rich Text Component</strong> editor. Editor.js is a block-styled editor for rich media stories. It outputs clean data in JSON instead of heavy HTML-markup.
 
+Visit https://richtext.memexdata.io/ for live demo.
+
 | File                           | Description                                                                                 |
 | ------------------------------ | ------------------------------------------------------------------------------------------- |
 | /src/app/page.tsx              | Sample Test Page                                                                            |
